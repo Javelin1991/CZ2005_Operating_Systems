@@ -3,7 +3,7 @@
 ## Learning Outcome
 I have learnt how an **Operating System** works, how a process scheduling as well as process synchronization are carried out, how a virtual memory managment works, file system organization, etc. 
 
-## Coursework Group Assingment
+## Coursework Assingment
 
 - Implemented a ``virtual memory``, including how to get a ``physical frame`` for a ``virtual page`` from the ``Inverted Page Table`` if it exists there, how to put a physical frame/virtual page entry into ``Translation Lookaside Buffer``, and how to implement a ``Least Recently Used`` page replacement algorithm. 
 
